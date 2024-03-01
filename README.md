@@ -6,6 +6,11 @@
 > Uncover the endless secrets of the water in this ocean adventure set on earth. 
 > Navigate through peaceful and calm terrains, look out for ambient creatures and sounds along the adventure through beautiful and ambient day and night cycles.
 ----
+### Demo:
+
+[![Demo Video](https://img.youtube.com/vi/gdjuFnFE6xU/0.jpg)](https://www.youtube.com/watch?v=gdjuFnFE6xU)
+
+---
 ### Features:
     ❑ Fluid, graceful and exhilarating physics-based gameplay.
     ❑ Procedural Generated environment.
